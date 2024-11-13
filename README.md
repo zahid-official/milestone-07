@@ -45,5 +45,4 @@ This project connects passionate fans with thrilling cricket action. Explore a v
 ## Live Demo 
 
 - **Live Link:** https://cpl-leauge.surge.sh/
-- **Github Link:** https://github.com/programming-hero-web-course1/b10a7-dream-11-zahid-official
 
