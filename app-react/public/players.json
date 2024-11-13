@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://i.ibb.co.com/BcKm1k5/1.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 1500000
+  },
+  {
+    "id": 2,
+    "name": "Glenn Phillips",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/cgkwwdb/2.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 1200000
+  },
+  {
+    "id": 3,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/gwvkZvz/3.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 1000000
+  },
+  {
+    "id": 4,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/1TQWbKL/4.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 800000
+  },
+  {
+    "id": 5,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/smfcMt1/5.jpg",
+    "role": "Batsman",
+    "battingType": "Left-handed",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 1200000
+  },
+  {
+    "id": 6,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/xgYfRqY/6.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 900000
+  },
+  {
+    "id": 7,
+    "name": "Richard Gleeson",
+    "country": "England",
+    "image": "https://i.ibb.co.com/52WSf2S/7.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 750000
+  },
+  {
+    "id": 8,
+    "name": "Mohammad Nabi",
+    "country": "Afghanistan",
+    "image": "https://i.ibb.co.com/Qj9PFqs/8.jpg",
+    "role": "All-rounder",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm Off-spin",
+    "biddingPrice": 600000
+  },
+  {
+    "id": 9,
+    "name": "Jos Buttler",
+    "country": "England",
+    "image": "https://i.ibb.co.com/VTN6R3S/9.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 1100000
+  },
+  {
+    "id": 10,
+    "name": "Ish Sodhi",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/pfjTHQX/10.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm leg spin",
+    "biddingPrice": 1300000
+  },
+  {
+    "id": 11,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/GxW9QMh/11.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 1300000
+  },
+  {
+    "id": 12,
+    "name": "Rohit Sharma",
+    "country": "India",
+    "image": "https://i.ibb.co.com/LdnvG09/12.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 1250000
+  },
+  {
+    "id": 13,
+    "name": "Tim Southee",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/pPNW5vr/13.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 900000
+  },
+  {
+    "id": 14,
+    "name": "Mohammad Rizwan",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/M6hcDZ3/14.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 1000000
+  },
+  {
+    "id": 15,
+    "name": "Ashwin",
+    "country": "India",
+    "image": "https://i.ibb.co.com/09GBZW7/15.jpg",
+    "role": "All-rounder",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm off spin",
+    "biddingPrice": 800000
+  }
+]
